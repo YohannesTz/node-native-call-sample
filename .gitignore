@@ -2,3 +2,5 @@
 .env
 
 build
+
+native_code.out
